@@ -1,0 +1,15 @@
+---
+layout: default
+title: Test
+---
+
+<h1>Test</h1>
+
+<ul>
+    {% for test in site.categories.test %}
+        <li>
+            <h2><a href="{{ test.url }}">{{ test.title }}</a></h2>
+            {{ test.excerpt }}
+        </li>
+    {% endfor %}
+</ul>

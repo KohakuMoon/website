@@ -4,3 +4,7 @@
   link: /about.html
 - name: Blog
   link: /blog.html
+- name: Test
+  link: /test.html
+- name: Staff
+  link: /staff.html

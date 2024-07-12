@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Amber
+author: amber
 ---
 May Craft Goals
 

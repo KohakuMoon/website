@@ -1,5 +1,21 @@
-<nav>
+<!--  <nav>
     {% for item in site.data.navigation %}
       <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
     {% endfor %}
-  </nav>
+  </nav> 
+ -->
+  <nav>
+    <ul class="nav">
+        {% for item in site.data.navigation %}
+            <li class="dropdown">
+              <a href="{{ item.link }}" {% if page.url == item.link %} class="dropbtn current" {% else %} class="dropbtn" {% endif %}>{{ item.name }}</a>
+                    {% if item.name == "Blog" %}
+                      <div class ="dropdown-content">
+                        {% for post in site.posts %}
+                          <a href="{{ post.url }}">{{ post.name }}</a>
+                          {% endfor %}
+                          {% endif %}
+                      </div>
+                  {% endfor %}
+    </ul>
+</nav>

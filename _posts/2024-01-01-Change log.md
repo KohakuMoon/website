@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Amber
+author: amber
 ---
 January 1st 2024
     A site is up. More Coffee is needed

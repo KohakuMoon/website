@@ -1,2 +1,79 @@
-.current {color: green;
+/* header */
+
+/* navigation */
+
+    .current {color: green !important;
+    }
+
+    body {
+        text-align: center;
+    }
+
+
+:root {
+    --main-bg-color: #FFE7EC;
+    --primary-accent-color: #fcb77a;
+    --secondary-accent-color: #faffc0;
+    --tertiary-accent-color: #c0ffe4;
+    --tertiary-accent-color-dark: #a8dfc8 ;
+    --link-solid-color: black;
+    --link-standout-color: #faffc0;
+    --link-standout-highlight: #c0ffe4;
+    color: black;
 }
+
+nav {
+
+    li {
+        float: center;
+        font-size: 1em;
+    }
+
+    li a, .dropbtn {
+        display: inline-block;
+        color: var(--link-solid-color);
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 1em;
+    }
+
+    li a:hover, .dropdown:hover .dropbtn {
+        background-color: var(--secondary-accent-color);
+    }
+
+    li.dropdown {
+    display: inline-block;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        /*background-color: #f9f9f9;*/
+        background-color: var(--tertiary-accent-color);
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 8px rgba(0,0,0,0.2);
+        z-index: 1;
+    }
+
+    .dropdown-content a {
+        color: var(--link-solid-color);
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        text-align: left;
+    }
+
+    .dropdown-content a:hover {
+        background-color: var(--tertiary-accent-color-dark);
+    }
+
+    .dropdown:hover .dropdown-content {
+        display:block;
+    }
+
+    }
+
+
+
+/* footer */
