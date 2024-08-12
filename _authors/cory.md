@@ -1,7 +1,7 @@
 ---
-short_name: cory
-name: Cory 
+short_name: Chaos Goat
+name: Chaos Goat
 postion: Unofficial IT
 ---
 
-Cory is a goat
+Chaos is a goat

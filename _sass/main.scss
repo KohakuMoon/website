@@ -5,9 +5,6 @@
     .current {color: green !important;
     }
 
-    body {
-        text-align: center;
-    }
 
 
 :root {
@@ -74,6 +71,14 @@ nav {
 
     }
 
+/* body */
+
+body {
+    background-color: #c7877f;
+    background-image: linear-gradient(#c7877f, #d3a38a);
+
+    text-align: center;
+}
 
 
 /* footer */

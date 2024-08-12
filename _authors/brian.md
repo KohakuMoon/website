@@ -1,6 +1,6 @@
 ---
-short_name: brian
-name: Brian 
+short_name: Salithox
+name: Salithox 
 postion: Unofficial IT
 ---
 

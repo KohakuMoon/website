@@ -4,10 +4,6 @@
   color: green !important;
 }
 
-body {
-  text-align: center;
-}
-
 :root {
   --main-bg-color: #FFE7EC;
   --primary-accent-color: #fcb77a;
@@ -61,6 +57,16 @@ nav .dropdown:hover .dropdown-content {
   display: block;
 }
 
+/* body */
+body {
+  background-color: #c7877f;
+  background-image: linear-gradient(#c7877f, #d3a38a);
+  text-align: center;
+}
+
 /* footer */
+ul {
+  list-style-type: none;
+}
 
 /*# sourceMappingURL=styles.css.map */
