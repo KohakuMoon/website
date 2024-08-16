@@ -60,8 +60,23 @@ nav .dropdown:hover .dropdown-content {
 /* body */
 body {
   background-color: #c7877f;
-  background-image: linear-gradient(#c7877f, #d3a38a);
+  background-image: linear-gradient(180deg, #c7877f 25%, #d3a38a 85%, #ebd2a2 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  max-width: 65%;
+  margin: auto;
   text-align: center;
+}
+
+html {
+  height: 100dvh;
+}
+
+#page-container {
+  position: relative;
+  min-height: 100vh;
+  background-color: #ffebb0;
 }
 
 /* footer */
