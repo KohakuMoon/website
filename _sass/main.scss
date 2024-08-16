@@ -19,11 +19,19 @@
     color: black;
 }
 
+ul.nav {
+    background-color: #946658; 
+    margin: 0;
+    padding: 0;
+    }
+
 nav {
 
     li {
         float: center;
         font-size: 1em;
+        
+        
     }
 
     li a, .dropbtn {
@@ -95,6 +103,9 @@ html {
     position: relative;
     min-height: 100vh;
     background-color: #ffebb0;
+    
+    
+    margin: 0;
 }
 
 /* footer */

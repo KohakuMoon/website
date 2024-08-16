@@ -19,3 +19,8 @@ August 11th 2024
 
 August 12th 2024
     Unoffical IT team helped me get some color up. Salithox helped get me started and then Goat walked me through some more. The backgroud color gradient is not longer repeating. The lighter main color is added in the code as well. I still have a bit of a disconnect, but, I feel my understanding has improved. I am lucky to have such great support people and am greatful for their help. I still have some work in adding colors and want to reorganize pages and navigation a bit. 
+
+August 15th 2024
+    I actually have enough coffee for this. I have had so much coffee recently. I can not remember the fix Goat shared for my gap issue, ~~adding padding-top: 1rem; seems to have worked~~. I will have to study more on this. The number is arbitrarily chosen and assume it may all change later.
+
+    Goat chimed in. Margin 0. Salithox played with margin block auto for same effect. Interesting.
