@@ -1,7 +1,7 @@
 /* header */
 /* navigation */
 .current {
-  color: green !important;
+  color: #ebd2a2 !important;
 }
 
 :root {
@@ -20,6 +20,9 @@ ul.nav {
   background-color: #946658;
   margin: 0;
   padding: 0;
+  border-style: outset;
+  border-width: thick;
+  border-color: #a8dfc8;
 }
 
 nav li {
@@ -73,6 +76,10 @@ body {
   max-width: 65%;
   margin: auto;
   text-align: center;
+  border-left-style: solid;
+  border-right-style: solid;
+  border-width: thick;
+  border-color: #946658;
 }
 
 html {
@@ -87,6 +94,10 @@ html {
 }
 
 /* footer */
+ul.footer {
+  background-color: #a8dfc8;
+}
+
 ul {
   list-style-type: none;
 }

@@ -24,3 +24,12 @@ August 15th 2024
     I actually have enough coffee for this. I have had so much coffee recently. I can not remember the fix Goat shared for my gap issue, ~~adding padding-top: 1rem; seems to have worked~~. I will have to study more on this. The number is arbitrarily chosen and assume it may all change later.
 
     Goat chimed in. Margin 0. Salithox played with margin block auto for same effect. Interesting.
+
+August 16th 2024
+    Playing with borders a little and color in navigation a bit more. 
+
+August 17th 2024
+    Took several days and more effort this morning but have lost hope of old laptop as portable code practice box. I absolutly did not have the footer in the html when playing with it yesterday. And it apparently need text. More learning might allow it to be a bar of color but good with some '~~~' in the moment
+
+September 20th 2024
+    Uploaded the September craft goals I wrote earlier in the month. I now want to add a sparkly cursor, possibly future update.
