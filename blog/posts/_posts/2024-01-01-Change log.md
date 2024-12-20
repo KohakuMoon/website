@@ -33,3 +33,6 @@ August 17th 2024
 
 September 20th 2024
     Uploaded the September craft goals I wrote earlier in the month. I now want to add a sparkly cursor, possibly future update.
+
+December 18th 2024
+    Learning grid and breaking things. Eventually I will move past the same few questions I keep asking the unoffical IT team. 

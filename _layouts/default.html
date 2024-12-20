@@ -5,14 +5,19 @@
         <title>{{ page.title }}</title>
         <link rel="stylesheet" href="/assets/css/styles.css">
     </head>
+<style>
+    
+</style>
     <body>
         
             
         
         <div id="page-container">
             {% include navigation.html %}
-        {{ content }}
-                
+            <!-- <h1>{{ page.title }}</h1> -->
+        <article class="grid-container">
+            {{ content }}
+        </article>        
         </div>
     
     <footer> 
