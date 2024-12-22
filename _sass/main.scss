@@ -132,14 +132,28 @@ html {
         'menu main main main main right'
         'menu footer footer footer footer footer';
         grid-gap: 10px;
-        background-color: #2196F3;
         padding: 10px;
     }
     .grid-container > div {
-        background-color: rgba(255, 255, 255, 0.8);
+        background-color: #faffc0;
         text-align: center;
         padding: 20px 0;
         font-size: 30px;
+        border-style: dashed;
+        border-color: #c7877f;
+        
+    }
+
+    /* Bunny Project sub grid */
+
+    .book-container {
+        background-color: #faffc0;
+        text-align: center;
+        padding: 20px 0;
+        font-size: 30px;
+        border-style: solid;
+        border-color: #c7877f;
+
     }
 
 /* Goat grid for bunny page

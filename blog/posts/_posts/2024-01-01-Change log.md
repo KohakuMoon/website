@@ -36,3 +36,6 @@ September 20th 2024
 
 December 18th 2024
     Learning grid and breaking things. Eventually I will move past the same few questions I keep asking the unoffical IT team. 
+
+December 20th and 21st
+    Two days of coffee and code <3 Still breaking things and toying with grid. The blog posts are so broken. Slowly getting the hand of grid-ception at least. I have the best un-offical IT team.  
