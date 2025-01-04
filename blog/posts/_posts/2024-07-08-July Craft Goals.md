@@ -4,6 +4,7 @@ author: amber
 ---
 July Craft Goals
 
+<div class="item3">
     Quilting and Sewing
         Queen of Diamonds Month 7
         Bind mini maker station and start the add on for it
@@ -23,3 +24,5 @@ July Craft Goals
 
 
 Ended up skipping goals post for June and update on May. I did complete all of May's goals, minus the streaming part. I also stalled on the mini maker station. The desk was tidied at least. Now the unending clutter that is my desk needs another visit. I also plan to waste some time enjoying Monster Hunter in between crafting and reading.
+
+</div>

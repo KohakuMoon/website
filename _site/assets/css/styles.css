@@ -130,6 +130,14 @@ html {
   border-color: #c7877f;
 }
 
+.left-menu-container {
+  text-align: left;
+}
+
+.footer-container {
+  text-align: right;
+}
+
 /* Bunny Project sub grid */
 .book-container {
   background-color: #faffc0;

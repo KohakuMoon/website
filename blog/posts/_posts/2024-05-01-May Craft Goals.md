@@ -3,6 +3,7 @@ layout: post
 author: amber
 ---
 May Craft Goals
+<div class="item3">
 
     Quitling and Sewing
         Finish month six for Queen of Diamonds quilt
@@ -21,3 +22,4 @@ May Craft Goals
         cross stitch if time
         tidy desk to get back to beading and streaming
         
+</div>

@@ -4,6 +4,7 @@ author: amber
 ---
 August Craft Goals
 
+<div class="item3">
     Quilting and Sewing
         Queen of Diamonds Month 7
         Bind mini maker station and start the add on for it
@@ -30,3 +31,5 @@ August Craft Goals
 
 
 My July ambition was greater than my productivity. That is okay. Small progress is still progress. My August goals are just shy of being a copy paste. I made the most progress in crochet. I have low expectations that I will do much in the way of spinning and tatting this month, however, keeping the goal will remind me to make time for it still. There will be at least one finish to share! At least one bag will be complete. 
+
+</div>

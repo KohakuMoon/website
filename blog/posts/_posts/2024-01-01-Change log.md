@@ -2,6 +2,8 @@
 layout: post
 author: amber
 ---
+
+<div class="item3">
 January 1st 2024
     A site is up. More Coffee is needed
 
@@ -37,5 +39,21 @@ September 20th 2024
 December 18th 2024
     Learning grid and breaking things. Eventually I will move past the same few questions I keep asking the unoffical IT team. 
 
-December 20th and 21st
+December 20th and 21st 2024
     Two days of coffee and code <3 Still breaking things and toying with grid. The blog posts are so broken. Slowly getting the hand of grid-ception at least. I have the best un-offical IT team.  
+
+December 24th 2024
+    Escaped the house pre holiday plans for coffee. Looking at Tufte CSS project again and with Goat's help added the files to play around with. Note to self, add proper source page in footer later. 
+
+December 27th 2024
+    Coffee and Code. No wifi, playing with line breaks and stuff. 
+
+December 30th 2024
+    More coding and coffee with the unoffical IT team. They are slowly convincing me to try coding by hand. Small changes so far. More div containers. All the div containers.
+
+January 4th 2025
+    New year! It went so fast. Coffee and code got moved due to guests but making some efforrt today to do some so with Salithox. I am still enjoying learning more about styling so not much content up yet.
+
+
+</div>
+
