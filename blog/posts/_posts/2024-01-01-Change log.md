@@ -51,9 +51,24 @@ December 27th 2024
 December 30th 2024
     More coding and coffee with the unoffical IT team. They are slowly convincing me to try coding by hand. Small changes so far. More div containers. All the div containers.
 
+2025
+
 January 4th 2025
     New year! It went so fast. Coffee and code got moved due to guests but making some efforrt today to do some so with Salithox. I am still enjoying learning more about styling so not much content up yet.
 
+January 10th 2025
+    Coffee and code is my favorite.
 
+January 17th 2025
+    Coffee and code again <3 I'm slacking. Been browsing other wonderful sites and enjoying harassing my unoffical and reluctant IT team.
+
+January 24th 2025
+    Coffee and code time. Not many updates that are visible. I still want to add a cute cusor, not sure what yet. Still overthinking what I want to do lay out wise but enjoing grid-ception. Need to add the reading log, and read more in general.
+
+February 14th 2025
+    Coffee and code. Starting working on sewing pages again.
+
+February 28th 2025
+    Coffee and Code. Still need to make all my changes live. Still a mess of code. Had help lazy adding cursor sparkles. Will need to credit proper.
 </div>
 
