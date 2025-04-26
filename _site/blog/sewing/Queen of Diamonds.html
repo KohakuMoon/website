@@ -10,15 +10,17 @@
             new cursoreffects.fairyDustCursor();
             });
         </script>
+        <style>
+        </style>
     </head>
-<style>
-    
-</style>
+
     <body>
-        
-            
-        
-        <div id="page-container">
+        <main class="grid-container">
+            <article class="item1">
+                <h1>Tea Love And Lemons OMG</h1>
+            </article>
+            <!-- 4. under page container, and in fact maybe as a part of it add the grid-template-areas there instead of in the grid container. Experiement with it, but it should be at the top of your page hierarchy -->
+            <nav class="nav">
             
   <nav>
     <ul class="nav">
@@ -53,8 +55,14 @@
 
     
 </nav>
+            </nav>
+            <!-- 1. go into main.scss and change the nav CSS to have grid-area: nav -->
             <!-- <h1>queen of diamonds</h1> -->
-        <article class="grid-container">
+            <div class="left-menu">
+                <p>Tea Love and Lemons</p>
+            </div>
+            
+            
             <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -65,6 +73,14 @@
     <div class="item2">
         <h2>Log</h2>
             <ul>
+               <li> April 2025 
+                    <br>
+                    <p>Added a few more of the mick jaguar borders. Decided on on backing fabric also! Bought so much fairy flake. Greywork was announced this month but decided the darker fairy flake wouldn't not be as nice for this quilt.</p>
+               </li>
+                <li> March 2025
+                        <br>
+                        <p>Worked on mick jaguar borders some more at a sewing social for completing projects.</p>
+                </li>
                 <li>January 2025
                     <br>
                     <p>Cut the strips for the fairy flake. Using a proper sewing table made it go so fast! I need to invest in one in the future. Attempted to cut corner stones. Opted to use my ruler while has one 60 degree line. I asked for a second opionion at the sewing night and they said it looks right. A few more to cut and will be working on sewing on the mick jaguar border. </p>
@@ -80,20 +96,21 @@
     </div>
 </body>
 </html>
-        </article>        
-        </div>
-    </body>
+                
+
     
-    <footer> 
-        <p>~~~</p>
-        <div class = "footer-container">
-            <!-- id="footer"> -->
-            <a href="./about">About</a>
-            <a href="./staff">Staff</a>
-            
-        </div>
-    </footer>
+            <footer class="footer"> 
+                <!-- 3. this needs to get a grid-area of footer. -->
+                <p>~~~</p>
+                <div class = "footer-container">
+                    <!-- id="footer"> -->
+                    <a href="./about">About</a>
+                    <a href="./staff">Staff</a>
+                </div>
+            </footer>
+        </main>
         
     <!-- </body> -->
-
+    </body>
 </html>
+

@@ -10,15 +10,17 @@
             new cursoreffects.fairyDustCursor();
             });
         </script>
+        <style>
+        </style>
     </head>
-<style>
-    
-</style>
+
     <body>
-        
-            
-        
-        <div id="page-container">
+        <main class="grid-container">
+            <article class="item1">
+                <h1>Tea Love And Lemons OMG</h1>
+            </article>
+            <!-- 4. under page container, and in fact maybe as a part of it add the grid-template-areas there instead of in the grid container. Experiement with it, but it should be at the top of your page hierarchy -->
+            <nav class="nav">
             
   <nav>
     <ul class="nav">
@@ -53,23 +55,23 @@
 
     
 </nav>
+            </nav>
+            <!-- 1. go into main.scss and change the nav CSS to have grid-area: nav -->
             <!-- <h1>Home</h1> -->
-        <article class="grid-container">
+            <div class="left-menu">
+                <p>Tea Love and Lemons</p>
+            </div>
+            
+            
             <!DOCTYPE html>
-<html>
-    <head>
-        <div class = "item1">
-        <meta charset="utf-8"
-        <title>Tea Love and Lemons</title>
-        <!-- <title>Home</title> -->
-        </div>
-    </head>
-    <body>
+
+
+
         <div class = "item3">
         <h1>i need more coffee for this</h1>
         </div>
 
-        <div class = "item2">
+        <div class = "left-menu">
             <div class = "left-menu-container">
             <h1>Lastest Posts</h1>
 
@@ -116,23 +118,24 @@ January 1st 2024
             </div>
         </div>
     
-    </body>
-</html>
-
-        </article>        
-        </div>
-    </body>
     
-    <footer> 
-        <p>~~~</p>
-        <div class = "footer-container">
-            <!-- id="footer"> -->
-            <a href="./about">About</a>
-            <a href="./staff">Staff</a>
-            
-        </div>
-    </footer>
+
+
+                
+
+    
+            <footer class="footer"> 
+                <!-- 3. this needs to get a grid-area of footer. -->
+                <p>~~~</p>
+                <div class = "footer-container">
+                    <!-- id="footer"> -->
+                    <a href="./about">About</a>
+                    <a href="./staff">Staff</a>
+                </div>
+            </footer>
+        </main>
         
     <!-- </body> -->
-
+    </body>
 </html>
+

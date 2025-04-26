@@ -70,5 +70,14 @@ February 14th 2025
 
 February 28th 2025
     Coffee and Code. Still need to make all my changes live. Still a mess of code. Had help lazy adding cursor sparkles. Will need to credit proper.
+
+April 3rd 2025
+    How is it April already? Moved coffee and code to Thursday this week.
+
+April 18th 2025
+    Coffee and Code. Fixed a few typos. So much work to do here. I need to figure out where I am going go back to basics maybe.
+
+April 25th 2025
+    Left work early so got to go to coffee and code a bit earlier. Goat had me walk thru a test site using html with inline css. He keeps showing me the same things and I hope he knows how appreciated he is. His help did indentify some issues with heirarchy and may have been interchangably using body and main. They do not work like that. I did a few changes after on my own. Site is still a broken mess but slowly improving. Keeping his napkin note in my laptop still as a reminder.
 </div>
 

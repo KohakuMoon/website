@@ -1,0 +1,1 @@
+I bought a new sewing machine. I should have waited a little longer but I love it so far
