@@ -79,5 +79,8 @@ April 18th 2025
 
 April 25th 2025
     Left work early so got to go to coffee and code a bit earlier. Goat had me walk thru a test site using html with inline css. He keeps showing me the same things and I hope he knows how appreciated he is. His help did indentify some issues with heirarchy and may have been interchangably using body and main. They do not work like that. I did a few changes after on my own. Site is still a broken mess but slowly improving. Keeping his napkin note in my laptop still as a reminder.
+
+April 26th 2025
+    More impromptu coffee and code.
 </div>
 
