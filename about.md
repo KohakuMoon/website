@@ -2,5 +2,6 @@
 layout: default
 title: About
 ---
-# About page
+<div class="item3">
 I still need more coffee for this
+</div>

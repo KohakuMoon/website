@@ -29,8 +29,8 @@ body {
     text-align: center;
     
 
-    border-left-style: solid;
-    border-right-style: solid;
+    border-left-style: none;
+    border-right-style: none;
     border-width: thick;
     border-color: #946658;
 }
@@ -60,7 +60,7 @@ html {
     display: grid;
     grid-template-areas:
     'header header header header header header'
-    '. nav nav nav nav .'
+    'nav nav nav nav nav nav'
     'menu main main main main right'
     'footer footer footer footer footer footer';
     grid-gap: 10px;
@@ -71,7 +71,7 @@ html {
     text-align: center;
     padding: 20px 0;
     font-size: 30px;
-    border-style: dashed;
+    border-style: solid;
     border-color: #c7877f;
     
 }
